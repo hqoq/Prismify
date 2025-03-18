@@ -1,22 +1,22 @@
-# PrismHighlighter 插件
+# Prismify 插件
 
 基于 Prism.js 的 Typecho 代码高亮插件，支持多种主题和功能特性。
 
 ## 功能特性
 
-- 支持多种高亮主题：默认、Coy、暗黑、Funky、Okaidia、Solarized Light、Tomorrow、Twilight
-- 行号显示：在代码块左侧显示行号
+- 支持多种高亮主题：默认、Coy、Dark、Funky、Okaidia、Solarized Light、Tomorrow、Twilight
+- 行号显示：在代码块左侧显示行号（bug: 不同 Prism 主题下还有显示 bug 待修）
 - 行高亮：支持特定行高亮显示
-- 显示语言：在代码块右上角显示编程语言
+- 显示语言：在代码块右上角显示编程语言（bug: 只有单行代码显示时右侧的语言和复制按钮位置显示不齐）
 - 工具栏：提供代码块工具栏
 - 复制按钮：一键复制代码内容
 - 树形视图：支持树形结构代码的显示
 
 ## 安装说明
 
-1. 下载本插件，解压后将文件夹重命名为 `PrismHighlighter`
-2. 将插件上传到 Typecho 插件目录：`/usr/plugins/`
-3. 登录控制台，在"插件管理"中找到 `PrismHighlighter`，点击"启用"
+1. 下载仓库文件并解压
+2. 将文件夹 `Prismify` 上传到 Typecho 插件目录：`/usr/plugins/`
+3. 登录控制台，在"插件管理"中找到 `Prismify`，点击"启用"
 4. 根据需要进行相关设置
 
 ## 使用方法
@@ -83,7 +83,7 @@ echo "这是第八行，会被高亮";
 
 ## 版本历史
 
-- v1.0.0 - 初始版本发布
+- v1.0.8 - 初始版本发布
 
 ## 许可证
 
