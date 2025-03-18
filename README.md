@@ -1,6 +1,6 @@
-# Prismify 插件
+# Prismify for Typecho
 
-基于 Prism.js 的 Typecho 代码高亮插件，支持多种主题和功能特性。
+基于 Prism.js 的 Typecho 文章中代码高亮插件，支持多种主题和功能特性。
 
 ## 功能特性
 
