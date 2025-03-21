@@ -1,14 +1,6 @@
 # Typecho 博客代码高亮插件 - Prismify
 
-> 一个 Typecho 代码高亮插件，基于 PrismJS，支持官方主题，添加了行号显示，语言显示，复制按钮和树形结构显示插件。
-
-
-<!--more-->
-
-
-目前找到的几个 Typecho 代码高亮插件的更新时间都比较久远了，遂和 Claude 3.7 Sonnet (Thinking) 写了一个。
-
-[🔗 Github](https://github.com/hqoq/Prismify-for-Typecho)
+一个 Typecho 代码高亮插件，基于 PrismJS，支持官方主题，添加了行号显示，语言显示，复制按钮和树形结构显示插件。
 
 ## 功能特性
 
